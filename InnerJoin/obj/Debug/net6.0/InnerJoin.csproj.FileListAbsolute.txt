@@ -1,0 +1,15 @@
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\bin\Debug\net6.0\InnerJoin.exe
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\bin\Debug\net6.0\InnerJoin.deps.json
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\bin\Debug\net6.0\InnerJoin.runtimeconfig.json
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\bin\Debug\net6.0\InnerJoin.dll
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\bin\Debug\net6.0\ref\InnerJoin.dll
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\bin\Debug\net6.0\InnerJoin.pdb
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.csproj.AssemblyReference.cache
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.AssemblyInfoInputs.cache
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.AssemblyInfo.cs
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.csproj.CoreCompileInputs.cache
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.dll
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\ref\InnerJoin.dll
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.pdb
+C:\Users\Rezzen\Desktop\InnerJoin\InnerJoin\obj\Debug\net6.0\InnerJoin.genruntimeconfig.cache
